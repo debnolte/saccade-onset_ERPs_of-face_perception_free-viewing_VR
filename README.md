@@ -1,4 +1,4 @@
-# saccade-onset ERPs of face perception during free-viewing in VR
+# Investigating saccade-onset ERPs of face perception during free-viewing in VR
 
 The code of the project was used to investigate saccade-onset compared to gaze-onset ERPs (Amme et al., 2024) of face perception in an immersive free-viewing virtual reality experiment.
 

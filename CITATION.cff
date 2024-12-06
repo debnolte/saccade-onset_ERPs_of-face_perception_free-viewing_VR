@@ -1,1 +1,10 @@
-
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nolte"
+  given-names: "Debora"
+- family-names: "Grasso-Cladera"
+  given-names: "Aitana"
+title: "saccade-onset_ERPs_of-face_perception_free-viewing_VR "
+date-released: 2024-12-06 
+url: "https://github.com/debnolte/saccade-onset_ERPs_of-face_perception_free-viewing_VR"
